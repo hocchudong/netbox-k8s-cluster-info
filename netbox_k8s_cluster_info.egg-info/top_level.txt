@@ -1,1 +1,0 @@
-netbox_k8s_cluster_info

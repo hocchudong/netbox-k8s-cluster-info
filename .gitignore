@@ -5,9 +5,9 @@
 **/.idea
 .vscode/
 dist/*
-netbox_svm.egg-info/*
 ci/docker-compose.override.yml
 ci/reports
 out/production
 *.iml
 build/*
+netbox_k8s_cluster_info.egg-info/*
